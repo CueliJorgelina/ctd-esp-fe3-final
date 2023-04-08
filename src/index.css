@@ -1,0 +1,39 @@
+html {
+    min-height: 100vh;
+}
+
+main {
+    min-height: 82.6vh;
+}
+
+.card {
+    width: 19rem;
+}
+
+header {
+    background-color: gainsboro;
+}
+
+[data-base-theme="dark"] h2 {
+    color: whitesmoke;
+}
+
+[data-base-theme="dark"] label {
+    color: whitesmoke;
+}
+
+[data-base-theme="dark"] p {
+    color: whitesmoke;
+}
+
+[data-base-theme="dark"] main {
+    background-color: black;
+}
+
+[data-base-theme="dark"] th{
+    color: whitesmoke;
+}
+
+[data-base-theme="dark"] td{
+    color: whitesmoke;
+}
